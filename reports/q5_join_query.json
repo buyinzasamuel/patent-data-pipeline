@@ -1,0 +1,26 @@
+[
+  {
+    "patent_id":"10000000",
+    "title":"Sample Patent 1",
+    "inventor_name":null,
+    "company_name":"Company One"
+  },
+  {
+    "patent_id":"10000000",
+    "title":"Sample Patent 1",
+    "inventor_name":"Inventor One",
+    "company_name":null
+  },
+  {
+    "patent_id":"10000001",
+    "title":"Sample Patent 2",
+    "inventor_name":null,
+    "company_name":"Company Two"
+  },
+  {
+    "patent_id":"10000001",
+    "title":"Sample Patent 2",
+    "inventor_name":"Inventor Two",
+    "company_name":null
+  }
+]
