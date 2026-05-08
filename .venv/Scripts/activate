@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\HP\Desktop\CLOUD COMPUTING AND BIG DATA ANALYTICS\cloud_assignment 2\.venv"
+VIRTUAL_ENV="C:\Users\HP\Desktop\CLOUD COMPUTING AND BIG DATA ANALYTICS\cloud_assignment 2\patent-data-pipeline\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
